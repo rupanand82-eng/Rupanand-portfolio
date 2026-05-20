@@ -1,24 +1,25 @@
-# Pallem Meghana Naga Rajeswari • AI & ML Portfolio
+# Rupanand Palakurthi • AI & Full Stack Developer Portfolio
 
-A premium, interactive developer portfolio showcasing academic excellence, real-world Machine Learning (ML) products, global cloud certifications, and featuring an advanced server-side **AI Twin recruiter chatbot assistant** powered by Gemini 3.5.
+A premium, interactive developer portfolio showcasing expertise in AI/ML solutions, full-stack web architectures, global certifications, and featuring an advanced server-side **AI Twin interview chatbot assistant** powered by Gemini.
 
 ---
 
 ## 🚀 Key Achievements & Features
 
-- **Interactive AI Twin chatbot**: Recruiter-focused virtual representation of Meghana designed using the official Google GenAI SDK (`@google/genai`) to answer specific, contextual questions about her projects, GPA (8.8), courseworks, and availability. Includes pre-computed prompt suggestions.
-- **Deep Tech-Forward Design**: Custom Cosmic theme styled with Tailwind CSS, Plus Jakarta Sans headers, and code accents utilizing JetBrains Mono.
-- **Dynamic Projects Showcase**: Modular categorization support across autonomous agents, deep neural networks, and quant analytics pipelines.
-- **Academics & Accreditation Timeline**: Validated visual rendering of Seshadri Rao Gudlavalleru Engineering College highlights alongside 4 major cloud and ML industry honors.
+- **Interactive AI Twin chatbot**: Recruiter-focused virtual representation of Rupanand designed using the official Google GenAI SDK (`@google/genai`) to answer specific, contextual questions about his projects, GPA (7.59), experience, and availability. Includes pre-computed quick-launch suggestion prompts.
+- **Deep Tech-Forward Design**: Custom Slate/Cosmic dark theme styled with Tailwind CSS, Plus Jakarta Sans headers, and code accents utilizing JetBrains Mono.
+- **Dynamic Projects Showcase**: Modular categorization support across natural language processing (NLP), machine learning classifiers, and full-stack web agents.
+- **Undergraduate Experience & Professional Milestones**: Timeline views representing Rupanand's internship at **inamigos foundation** (AI & Web Development Intern), virtual AWS internships, and Seshadri Rao Gudlavalleru Engineering College credentials.
+- **10 Industry Credentials & Badges**: Comprehensive list of verified ML, Cloud Computing, GenAI, and UI/UX design certificates.
 
 ---
 
 ## 🛠️ Technology Stack
 
-- **Frontend Core**: React 18+ (TSX, Hooks), Tailwind CSS
+- **Frontend Core**: React (TSX, Hooks), Tailwind CSS
 - **Design & Typography**: Lucide React Icons, Google Fonts (Space Grotesk, Plus Jakarta Sans, JetBrains Mono)
 - **Engine Server**: Node.js, Express, tsx (for runtime TS support), esbuild (production bundling)
-- **AI Core**: `@google/genai` (Gemini 3.5 Flash) with server-side system instruction state containment
+- **AI Core**: `@google/genai` (Gemini model orchestration) with server-side system instruction state containment
 
 ---
 
@@ -46,5 +47,7 @@ To boot this premium full-stack portfolio locally:
 4. **Verify Lints & Compile Assets**:
    ```bash
    npm run lint
+   ```
+   ```bash
    npm run build
    ```
